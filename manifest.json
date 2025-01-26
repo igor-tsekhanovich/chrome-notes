@@ -3,7 +3,7 @@
     "description": "Save your own notes in Google Chrome browser and synchronize it between you devices",
     "version": "0.1.0",
     "manifest_version": 3,
-    "permissions": ["contextMenus", "storage"],
+    "permissions": ["storage"],
     "action": {
         "default_popup": "popup/popup.html"
     },
