@@ -1,0 +1,15 @@
+{
+    "name": "Chrome Notes",
+    "description": "Save your own notes in Google Chrome browser and synchronize it between you devices",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "permissions": ["contextMenus", "storage"],
+    "action": {
+        "default_popup": "popup/popup.html"
+    },
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    }
+}
